@@ -14,4 +14,4 @@ test("Multiplicação 10*5 esperado 50 como resultado", () => {
 
 test("Divisão 10/5 esperado 2 como resultado", () => {
   expect(contas.divisao(10, 5)).toBe(2);
-});
+}); 
